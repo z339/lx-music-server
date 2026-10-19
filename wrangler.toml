@@ -16,5 +16,4 @@ tag = "v1"
 new_sqlite_classes = ["UserSyncDO"]
 
 [vars]
-LX_USERS = "LX_USERS_PLACEHOLDER"
 SERVER_NAME = "LX Music Server"
